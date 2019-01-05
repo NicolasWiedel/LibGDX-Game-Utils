@@ -19,7 +19,7 @@ public class GameUtils extends ApplicationAdapter {
 
 	@Override
 	public void render () {
-        GdxUtils.clearScreen(GdxUtils.CORNFLOWER_BLUE);
+        GdxUtils.clearScreen();
 		batch.begin();
 		batch.draw(img, 0, 0);
 		batch.end();

@@ -13,15 +13,20 @@ public class GdxUtils {
     public static final Color CORNFLOWER_BLUE = new Color(0.392f, 0.584f, 0.929f, 0.0f);
 
     /**
-     *  cleas screen using black color
+     *  cleas screen using default color
      */
     public static void clearScreen(){
         clearScreen(CORNFLOWER_BLUE);
     }
 
+    /**
+     * clearing screen using specified color
+     *
+     * @param color The color for clearing screen; if null, cornflowerblue is used
+     */
     public static void clearScreen(Color color){
         if (color == null) {
-            color = Color.BLACK;
+            color = CORNFLOWER_BLUE;
         }
 
         Gdx.gl.glClearColor(color.r, color.g, color.b, color.a);
