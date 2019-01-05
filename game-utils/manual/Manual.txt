@@ -1,0 +1,19 @@
+
+Anleitung zur Nutzung der LibGDX-Game-Utils
+
+1. gewünschtes LibGDX Project erstellen
+
+2. kopiere den game-utils Pfad in den Root-Verzeichnis des Projekts
+
+3. im Verzeichnis gradle, öffne die Datei settings.gradle
+
+4. füge als weiters Modul game-utils nach desktop in den include-Befehl ein
+
+5. öffne build.gradle im gradle Pfad
+
+6. kopiere project(":core") und füge es darüber nocheinla ein
+
+7. eines der project(":core") umbenennen in project(":game-utils")
+
+8. in project(":core") dependencies compile "com.badlogicgames.gdx:gdx:$gdxVersion" ändern in compile project(":game-utils")
+
