@@ -2,7 +2,7 @@ package com.shape;
 
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector2;
-import com.game.Validate;
+import com.Validate;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

@@ -9,7 +9,7 @@ import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.game.GameBase;
-import com.game.GdxUtils;
+import com.GdxUtils;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

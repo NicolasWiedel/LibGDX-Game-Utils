@@ -1,4 +1,4 @@
-package com.game;
+package com;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

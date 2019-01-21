@@ -1,10 +1,9 @@
-package com.debug;
+package com;
 
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.utils.Logger;
 import com.badlogic.gdx.utils.viewport.Viewport;
-import com.game.Validate;
 
 /**
  * utilityclass for methods using viewports
