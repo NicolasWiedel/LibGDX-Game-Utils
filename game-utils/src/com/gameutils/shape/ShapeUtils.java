@@ -1,4 +1,4 @@
-package com.shape;
+package com.gameutils.shape;
 
 import com.badlogic.gdx.math.MathUtils;
 

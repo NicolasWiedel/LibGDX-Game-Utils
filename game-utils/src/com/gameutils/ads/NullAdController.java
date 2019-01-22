@@ -1,4 +1,4 @@
-package com.ads;
+package com.gameutils.ads;
 
 import com.badlogic.gdx.utils.Logger;
 

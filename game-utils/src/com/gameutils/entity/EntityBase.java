@@ -1,11 +1,11 @@
-package com.entity;
+package com.gameutils.entity;
 
 import com.badlogic.gdx.math.MathUtils;
 import com.badlogic.gdx.math.Polygon;
 import com.badlogic.gdx.math.Vector2;
-import com.entity.script.EntityScript;
-import com.entity.script.ScriptController;
-import com.shape.ShapeUtils;
+import com.gameutils.entity.script.EntityScript;
+import com.gameutils.entity.script.ScriptController;
+import com.gameutils.shape.ShapeUtils;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

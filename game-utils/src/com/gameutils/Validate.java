@@ -1,4 +1,4 @@
-package com;
+package com.gameutils;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

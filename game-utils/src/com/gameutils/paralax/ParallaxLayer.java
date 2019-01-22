@@ -1,7 +1,7 @@
-package com.paralax;
+package com.gameutils.paralax;
 
 import com.badlogic.gdx.math.Rectangle;
-import com.Direction;
+import com.gameutils.Direction;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

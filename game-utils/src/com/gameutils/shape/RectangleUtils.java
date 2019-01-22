@@ -1,8 +1,8 @@
-package com.shape;
+package com.gameutils.shape;
 
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector2;
-import com.Validate;
+import com.gameutils.Validate;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

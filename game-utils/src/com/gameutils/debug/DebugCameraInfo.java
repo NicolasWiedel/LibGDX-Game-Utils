@@ -1,4 +1,4 @@
-package com.debug;
+package com.gameutils.debug;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;

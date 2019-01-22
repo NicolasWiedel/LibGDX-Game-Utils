@@ -1,4 +1,4 @@
-package com;
+package com.gameutils;
 
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;

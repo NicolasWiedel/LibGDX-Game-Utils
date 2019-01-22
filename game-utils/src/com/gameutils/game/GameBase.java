@@ -1,6 +1,6 @@
-package com.game;
+package com.gameutils.game;
 
-import com.ads.AdController;
+import com.gameutils.ads.AdController;
 import com.badlogic.gdx.Application;
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;

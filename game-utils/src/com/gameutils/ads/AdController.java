@@ -1,4 +1,4 @@
-package com.ads;
+package com.gameutils.ads;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

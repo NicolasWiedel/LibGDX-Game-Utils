@@ -1,6 +1,6 @@
-package com.entity.script;
+package com.gameutils.entity.script;
 
-import com.entity.EntityBase;
+import com.gameutils.entity.EntityBase;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.

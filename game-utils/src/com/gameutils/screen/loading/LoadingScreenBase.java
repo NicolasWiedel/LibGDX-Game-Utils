@@ -1,4 +1,4 @@
-package com.screen.loading;
+package com.gameutils.screen.loading;
 
 import com.badlogic.gdx.ScreenAdapter;
 import com.badlogic.gdx.assets.AssetDescriptor;
@@ -8,8 +8,8 @@ import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
-import com.game.GameBase;
-import com.GdxUtils;
+import com.gameutils.game.GameBase;
+import com.gameutils.GdxUtils;
 
 /**
  * Created by Nicolas Wiedel on 05.01.2019.
